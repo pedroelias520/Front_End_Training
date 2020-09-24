@@ -1,0 +1,50 @@
+body {
+    background-color: white;
+}
+#text_div {    
+    font-family: 'Verdana';
+    width: 300px;
+    margin: 10px;
+}
+#master_div{
+    align-items: center;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    vertical-align: center;
+    font-size: 20px;
+    color: gray;    
+}
+#textview_login,#textview_password {  
+    color: gray;  
+    height: 35px;
+    width: 300px;
+    border: 0px;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #C4C4C4;
+}
+
+#button_login {    
+    height: 50px;
+    width: 300px;
+    background-color: #7429FF;
+    font-size: 20px;
+    text-align: center;
+    color: aliceblue;
+    border: 0;
+    border-radius: 40px;
+}
+#card_div {
+    box-shadow: 3px 3px 3px;
+    display: flex;
+    justify-content: center;    
+    align-items: center;    
+    border-radius: 40px;      
+    background-color: white;
+    height: 35rem;
+    width: 35rem;    
+    border-color: black;
+
+}
